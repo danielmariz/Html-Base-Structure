@@ -1,0 +1,14 @@
+/*
+Theme Name: Thunder Dope
+Theme URI: http://wordpress.org/extend/themes/thunder-dope
+Author: Daniel Mariz
+Author URI: https://github.com/danielmariz
+Description: Thema utilizando twitter bootstrap como base
+Version: 1.0
+*/
+
+@import url('stylesheets/bootstrap/css/bootstrap.min.css'); /* framework css*/
+@import url('stylesheets/bootstrap/css/bootstrap-responsive.min.css'); /* framework css*/
+@import url('stylesheets/fonts.css'); /* framework css*/
+@import url('stylesheets/base.css'); /* estilo base do tema */
+@import url('stylesheets/main.css'); /* arquivo principal */
